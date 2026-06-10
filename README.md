@@ -13,7 +13,7 @@
 
 #EJERCIO 4 -[validación de contraseña] (https://github.com/perlaitzel566-pixel/Mineriadedatos/edit/main/EJERCICIO%204%20VALIDACION%20DE%20CONTRASE%C3%91AS)
 
-#EJERCIO 5 -[repetir palabra] 
+#EJERCIO 5 -[repetir palabra] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%205%20REPETIR%20PALABRA)
 
 #EJERCIO 6 -[zumbido de chisporroteo]
 
