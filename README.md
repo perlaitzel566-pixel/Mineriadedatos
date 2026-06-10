@@ -27,6 +27,6 @@
 
 11 #EJERCIO -[área y volumen] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2011%20AREA%20Y%20VOLUMEN)
 
-12 #EJERCIO -[doc CSV] 
+12 #EJERCIO -[doc CSV] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2012%20DOCS%20CSV)
 
 
