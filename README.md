@@ -7,7 +7,7 @@
 
 #EJERCIO 1 -[Operación aritmetica] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20operacion%20aritmetica)
 
-#EJERCIO 2 -[Pizeria bella napoli] 
+#EJERCIO 2 -[Pizeria bella napoli] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20PIZZERIA%20BELLA%20NAPOLI)
 
 #EJERCIO 3 -[ Tabla de multiplicar.] 
 
