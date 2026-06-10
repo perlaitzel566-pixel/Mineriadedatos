@@ -19,7 +19,7 @@
 
 7 #EJERCIO -[número primo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%207%20NUMERO%20PRIMO)
 
-#EJERCIO 8 -[lista y tupla] 
+#EJERCIO 8 -[lista y tupla] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%208%20LISTA%20Y%20TUPLA)
 
 9 #EJERCIO -[función factorial] 
 
