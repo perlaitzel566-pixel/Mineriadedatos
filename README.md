@@ -25,7 +25,7 @@
 
 #EJERCIO 10 -[función de iva] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2010%20FUNCION%20DE%20IVA)
 
-11 #EJERCIO -[área y volumen] 
+11 #EJERCIO -[área y volumen] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2011%20AREA%20Y%20VOLUMEN)
 
 12 #EJERCIO -[doc CSV] 
 
