@@ -17,7 +17,7 @@
 
 #EJERCIO 6 -[zumbido de chisporroteo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%206%20FIZZBUZZ)
 
-7 #EJERCIO -[número primo] 
+7 #EJERCIO -[número primo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%207%20NUMERO%20PRIMO)
 
 #EJERCIO 8 -[lista y tupla] 
 
