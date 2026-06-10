@@ -1,1 +1,21 @@
-
+#Creacion lista
+alumnos = ["Jose","Perla"]
+estudiantes =[]
+estudiantes = alumnos.copy()
+print(alumnos, "alumnos")
+print(estudiantes,"estudiantes")
+estudiantes.pop() #elimina el ultimo elemento
+print(estudiantes,"estudiantes")
+print(alumnos,"alumnos")
+estudiantes.append("Angel")
+print(estudiantes, "estudiantes")
+print(alumnos.count("Jose"))
+print(len(alumnos))
+     
+['Jose', 'Perla'] alumnos
+['Jose', 'Perla'] estudiantes
+['Jose'] estudiantes
+['Jose', 'Perla'] alumnos
+['Jose', 'Angel'] estudiantes
+1
+2
