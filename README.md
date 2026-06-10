@@ -9,7 +9,7 @@
 
 #EJERCIO 2 -[Pizeria bella napoli] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20PIZZERIA%20BELLA%20NAPOLI)
 
-#EJERCIO 3 -[ Tabla de multiplicar.] 
+#EJERCIO 3 -[ Tabla de multiplicar.] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203%20TABLAS%20DE%20MULTIPLICAR)
 
 #EJERCIO 4 -[validación de contraseña] 
 
