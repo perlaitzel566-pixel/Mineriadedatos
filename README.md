@@ -23,7 +23,7 @@
 
 9 #EJERCIO -[función factorial] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%209%20NUMERO%20POSITIVO%20Y%20FACTORIAL)
 
-#EJERCIO 10 -[función de iva] 
+#EJERCIO 10 -[función de iva] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2010%20FUNCION%20DE%20IVA)
 
 11 #EJERCIO -[área y volumen] 
 
