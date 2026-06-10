@@ -15,7 +15,7 @@
 
 #EJERCIO 5 -[repetir palabra] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%205%20REPETIR%20PALABRA)
 
-#EJERCIO 6 -[zumbido de chisporroteo]
+#EJERCIO 6 -[zumbido de chisporroteo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%206%20FIZZBUZZ)
 
 7 #EJERCIO -[número primo] 
 
