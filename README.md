@@ -5,7 +5,7 @@
 
 #Mineria de datos ##primer parcial
 
-#EJERCIO 1 -[Operación aritmetica] 
+#EJERCIO 1 -[Operación aritmetica] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20operacion%20aritmetica)
 
 #EJERCIO 2 -[Pizeria bella napoli] 
 
