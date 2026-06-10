@@ -21,7 +21,7 @@
 
 #EJERCIO 8 -[lista y tupla] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%208%20LISTA%20Y%20TUPLA)
 
-9 #EJERCIO -[función factorial] 
+9 #EJERCIO -[función factorial] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%209%20NUMERO%20POSITIVO%20Y%20FACTORIAL)
 
 #EJERCIO 10 -[función de iva] 
 
