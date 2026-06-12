@@ -1,32 +1,28 @@
-#MINERIA DE DATOS 
+# Minería de Datos
 
+## Ejercicios de Python
 
-#PRIMER PARCIAL
+### Índice
 
-#Mineria de datos ##primer parcial
-
-#EJERCIO 1 -[Operación aritmetica] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20operacion%20aritmetica)
-
-#EJERCIO 2 -[Pizeria bella napoli] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20PIZZERIA%20BELLA%20NAPOLI)
-
-#EJERCIO 3 -[ Tabla de multiplicar.] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203%20TABLAS%20DE%20MULTIPLICAR)
-
-#EJERCIO 4 -[validación de contraseña] (https://github.com/perlaitzel566-pixel/Mineriadedatos/edit/main/EJERCICIO%204%20VALIDACION%20DE%20CONTRASE%C3%91AS)
-
-#EJERCIO 5 -[repetir palabra] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%205%20REPETIR%20PALABRA)
-
-#EJERCIO 6 -[zumbido de chisporroteo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%206%20FIZZBUZZ)
-
-7 #EJERCIO -[número primo] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%207%20NUMERO%20PRIMO)
-
-#EJERCIO 8 -[lista y tupla] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%208%20LISTA%20Y%20TUPLA)
-
-9 #EJERCIO -[función factorial] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%209%20NUMERO%20POSITIVO%20Y%20FACTORIAL)
-
-#EJERCIO 10 -[función de iva] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2010%20FUNCION%20DE%20IVA)
-
-11 #EJERCIO -[área y volumen] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2011%20AREA%20Y%20VOLUMEN)
-
-12 #EJERCIO -[doc CSV] (https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%2012%20DOCS%20CSV)
-
-
+| # | Ejercicio | Archivo |
+|---|---|---|
+| 1 | Operación aritmética | [operacion_1.py](operacion_1.py) |
+| 2 | Cociente y residuo | [cociente_2.py](cociente_2.py) |
+| 3 | Condicional de edad | [edad_3.py](edad_3.py) |
+| 4 | Pizzería Bella Napoli | [pizzeria_4.py](pizzeria_4.py) |
+| 5 | Tabla de multiplicar | [tabla_5.py](tabla_5.py) |
+| 6 | Validación de contraseña | [contrasena_6.py](contrasena_6.py) |
+| 7 | Repetir palabra | [repetir_7.py](repetir_7.py) |
+| 8 | FizzBuzz | [fizzbuzz_8.py](fizzbuzz_8.py) |
+| 9 | Número primo | [primo_9.py](primo_9.py) |
+| 10 | Sumar elementos | [suma_10.py](suma_10.py) |
+| 11 | Conteo de elementos | [conteo_11.py](conteo_11.py) |
+| 12 | Invertir una lista | [invertir_12.py](invertir_12.py) |
+| 13 | Saludo básico | [saludo_13.py](saludo_13.py) |
+| 14 | Saludo personalizado | [saludo_personalizado_14.py](saludo_personalizado_14.py) |
+| 15 | Factorial | [factorial_15.py](factorial_15.py) |
+| 16 | IVA | [iva_16.py](iva_16.py) |
+| 17 | Área y volumen | [area_volumen_17.py](area_volumen_17.py) |
+| 18 | Ventas desde CSV | [ventas_18.py](ventas_18.py) |
+| 19 | Calificaciones | [calificaciones_19.py](calificaciones_19.py) |
+| -------- | -------- | --------- |
