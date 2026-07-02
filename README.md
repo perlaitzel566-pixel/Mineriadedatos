@@ -12,3 +12,4 @@
 | 10 | Función de IVA | [iva.py](EJERCICIO%2010%20FUNCION%20DE%20IVA) |
 | 11 | Área y volumen | [area_volumen.py](EJERCICIO%2011%20AREA%20Y%20VOLUMEN) |
 | 12| Documentos CSV | [csv.py](EJERCICIO%2012%20DOCS%20CSV) |
+| # | Ejercicios Bloque 2| Archivo |
