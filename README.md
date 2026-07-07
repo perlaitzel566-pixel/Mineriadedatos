@@ -16,4 +16,4 @@
 | 1.2 | Medidas de tendencia | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
 | 2.2 | Medidas de dispersion | [disp.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20B.2) |
 | 3.2 | Correlacion | [correlacion.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203%20B.2) |
-| 1.2 | Medidas de tendencia | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
+| 4.2 | Tablas | [tablas.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%204%20B.2) |
