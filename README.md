@@ -13,5 +13,5 @@
 | 11 | Área y volumen | [area_volumen.py](EJERCICIO%2011%20AREA%20Y%20VOLUMEN) |
 | 12| Documentos CSV | [csv.py](EJERCICIO%2012%20DOCS%20CSV) |
 | # | Ejercicios Bloque 2| Archivo |
-| 1.2 | Medidas de dispersion | [csv.py]() |
+| 1.2 | Medidas de dispersion | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
 
