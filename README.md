@@ -14,4 +14,8 @@
 | 12| Documentos CSV | [csv.py](EJERCICIO%2012%20DOCS%20CSV) |
 | # | Ejercicios Bloque 2| Archivo |
 | 1.2 | Medidas de tendencia | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
+| 2.2 | Medidas de dispersion | [disp.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20B.2) |
 
+
+| 3.2 | Medidas de tendencia | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
+| 1.2 | Medidas de tendencia | [meddis.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.2) |
