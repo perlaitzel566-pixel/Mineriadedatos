@@ -18,3 +18,4 @@
 | 3.2 | Correlacion | [correlacion.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203%20B.2) |
 | 4.2 | Tablas | [tablas.py](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%204%20B.2) |
 | 5.2 | Árbol | ![Árbol](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/WhatsApp%20Image%202026-07-08%20at%208.55.20%20AM.jpeg) |
+| 6.2 | Tabla | ![Tabla](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/Documento%20A4%20Tabla%20Comparativa%20Ideas%20Mapa%20Mental%20Creativa%20Multicolor.png) |
