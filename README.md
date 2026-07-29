@@ -21,3 +21,4 @@
 | 6.2 | Tabla | ![Tabla](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/Documento%20A4%20Tabla%20Comparativa%20Ideas%20Mapa%20Mental%20Creativa%20Multicolor.png) |
 | 7.2 | Metodos estadisticos y modelos predictivos | [Modelos](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/Ejercicio%207%20B.2) |
 | 7.2 | Imagen Metodos | ![Imagen Metodos](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/WhatsApp%20Image%202026-07-16%20at%207.24.50%20AM.jpeg) |
+| # | Ejercicios Bloque 3| Archivo |
