@@ -24,3 +24,4 @@
 | # | Ejercicios Bloque 3| Archivo |
 | 1.3 | K-Means | [K-Means](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%201%20B.3) |
 | 1.3 | Metodo del codo | ![Metodo del codo](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/Captura%20de%20pantalla%202026-07-30%20072445.png) |
+| 2.3 | Neurona Artificial | [Neurona Artificial](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20B.3) |
