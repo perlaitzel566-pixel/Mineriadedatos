@@ -78,6 +78,18 @@ predicciones_nuevas = modelo.predict(nuevos_clientes_escalados)
 print("\nPredicciones para nuevos clientes:")
 print(predicciones_nuevas)
 print("INTERPRETACION: La red neuronal identifica el nivel de consumo usando las compras, el gasto, las visitas web y la satisfacción. En general, los clientes con valores más altos en estas variables son clasificados como de alto consumo, mientras que los de valores bajos son clasificados como de bajo consumo.")
+print("1. ¿Qué predicción obtuvo cada cliente?
+Cliente 1: Bajo consumo.
+Cliente 2: Alto consumo.
+Cliente 3: Alto consumo.
+2. ¿La predicción tiene sentido?
+Sí, porque los clientes con mayor gasto y más compras fueron clasificados con mayor consumo.
+3. ¿Qué variable parece influir más?
+El gasto mensual, seguido del número de compras.
+4. ¿Qué pasa si aumentas el gasto mensual?
+Es más probable que el cliente sea clasificado como de alto consumo.
+5. ¿Qué pasa si disminuyes la satisfacción?
+Disminuye la probabilidad de que sea clasificado como de alto consumo.")
 plt.plot(modelo.loss_curve_)
 plt.xlabel("Iteraciones")
 plt.ylabel("Error o pérdida")
