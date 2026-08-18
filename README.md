@@ -28,3 +28,4 @@
 | 3.3 | TABLA DE PATRONES | [Tabla de Patrones](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203.3) |
 
 
+
