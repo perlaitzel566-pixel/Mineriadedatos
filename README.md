@@ -27,5 +27,4 @@
 | 2.3 | Neurona Artificial | [Neurona Artificial](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%202%20B.3) |
 | 3.3 | TABLA DE PATRONES | [Tabla de Patrones](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%203.3) |
 | 4.3 | MINERIA DE TEXTOS | [Mineria de Textos](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%204.3) |
-
-    
+| 5.3 | REDES NEURONALES | [Redes Neuronales](https://github.com/perlaitzel566-pixel/Mineriadedatos/blob/main/EJERCICIO%205.3) |
